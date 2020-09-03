@@ -1,0 +1,36 @@
+## 神奇的海龟
+#### 目标：熟悉编程软件，提高写代码速度，理解简单代码
+#### 常用快捷键
+ctrl + c  复制（使用的时候先把代码用鼠标选中）
+ctrl + v  粘贴
+#### 2.代码理解
+```java
+#导入画图工具
+import turtle
+#改变画笔名字（注意P大写）
+dd = turtle.Pen()
+#改变形状（还有 arrow,turtle,circle,aquare,triangle,classic等形状）
+dd.shape("turtle")
+#前进（括号里面写角度）
+dd.forward(200)
+#左转（右转是right）
+dd.left(120)
+dd.forward(200)
+dd.left(120)
+dd.forward(200)
+dd.left(120)
+#关闭工具
+turtle.done()
+```
+#### 3.注意事项
+* (1)括号，小数点也是英文符号
+* (2).是操作的意思  <br> .(小数点)后面跟的是操作的名称+（）.前面是操作者，比如 t.left(),t是操作者，left是左转操作的意思
+* (3)注意单词的拼写
+* (4)代码保存
+#### 4.绝对方向代码理解
+```java
+#绘制正方形
+import turtle
+t= turtle.Pen()
+t.forward(200)
+t.seth(90)
