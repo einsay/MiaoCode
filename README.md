@@ -1,4 +1,5 @@
-# Welcome to MiaoCode (https://www.miaocode.com/)
+# Welcome to MiaoCode 
+#### [点击进入官网](https://www.miaocode.com/)
 
 ### Python S5笔记
 
