@@ -1,5 +1,5 @@
-# Welcome to MiaoCode  
-### [官网点击](https://www.miaocode.com/)
+# Welcome to MiaoCode (https://www.miaocode.com/)
+
 ### Python S5笔记
 
 [S5-01 神奇的海龟](https://github.com/einsay/MiaoCode/blob/master/S5/S5-01%E7%A5%9E%E5%A5%87%E7%9A%84%E6%B5%B7%E9%BE%9F.md)<br>
