@@ -1,4 +1,5 @@
 # Welcome to MiaoCode  
+### [官网点击](https://www.miaocode.com/)
 ### Python S5笔记
 
 [S5-01 神奇的海龟](https://github.com/einsay/MiaoCode/blob/master/S5/S5-01%E7%A5%9E%E5%A5%87%E7%9A%84%E6%B5%B7%E9%BE%9F.md)<br>
@@ -25,4 +26,4 @@
 [S5-22 数据排序]()<br>
 [S5-23 字典]()<br>
 [S5-24 阶段学习]()<br>
-##### 注:仅供秒小程内部学员使用[官网点击(https://www.miaocode.com/)
+##### 注:仅供秒小程内部学员使用
