@@ -11,7 +11,7 @@
 [S5-06 百变字符串](https://github.com/einsay/MiaoCode/blob/master/S5/S5-06%E7%99%BE%E5%8F%98%E5%AD%97%E7%AC%A6%E4%B8%B2.md)<br>
 [S5-07 数据类型的转换](https://github.com/einsay/MiaoCode/blob/master/S5/S5-07%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E7%9A%84%E8%BD%AC%E6%8D%A2.md)<br>
 [S5-08 格式化字符串](https://github.com/einsay/MiaoCode/blob/master/S5/S5-08%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2.md)<br>
-[S5-09 趣味数学]()<br>
+[S5-09 趣味数学](https://github.com/einsay/MiaoCode/blob/master/S5/S5-09%E8%B6%A3%E5%91%B3%E6%95%B0%E5%AD%A6.md)<br>
 [S5-10 超级算算算]()<br>
 [S5-11 赋值运算符]()<br>
 [S5-12 比较运算符]()<br>
