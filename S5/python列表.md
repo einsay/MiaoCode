@@ -24,6 +24,7 @@ a.remove("lalal")
 print(len(a))
 # 判断数据在不在列表中，会输出 True False
 print(1 in a)
+print(1 not in a)
 # 列表切片的结果一定是列表，不能和字符串比较大小
 print(a[:1])
 print(a[0])
